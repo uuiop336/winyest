@@ -5,7 +5,7 @@ services:
     environment:
       VERSION: "10l"
     environment:
-  LANGUAGE: "Chinese"
+      LANGUAGE: "Chinese"
     devices:
       - /dev/kvm
       - /dev/net/tun
