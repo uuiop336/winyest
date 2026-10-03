@@ -3,9 +3,7 @@ services:
     image: dockurr/windows
     container_name: windows
     environment:
-      VERSION: "10l"
-    environment:
-      LANGUAGE: "Chinese"
+      VERSION: "https://tempdelivery.13376767.xyz/db/zh-cn_windows_10_enterprise_ltsc_2021_x64_dvd_033b7312.iso?t=jM2rHKI7ibLsCVdx&a=14061&u=BecY6YNNgFFUR0he&sig=09a36566a266e1dfbe0f06b211935f4d3c3a6fb5d876ff51f2c25b31191d7e0a"
     devices:
       - /dev/kvm
       - /dev/net/tun
